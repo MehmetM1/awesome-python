@@ -1,7 +1,7 @@
 # Contributing
 
 Your contributions are always welcome!
-
+Bitte senden Sie eine Email an Ihren Lieblingskollegen.
 ## Guideline
 
 * Add one link per Pull Request.
